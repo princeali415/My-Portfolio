@@ -5687,7 +5687,7 @@ form .parsley-errors-list li {
 }
 
 
-#resume{
+.block-content span {
   font-size: 1.5em;
 }
 
@@ -5695,9 +5695,8 @@ form .parsley-errors-list li {
   font-size: 1.5em;
 }
 
-p {
-  font-size: 1.5em;
-}
+
+
 /* -------------------------------------------------------------------------------------------------------------------- */
 .page-projects .list-projects {
   margin: 0px;
